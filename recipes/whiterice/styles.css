@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(137, 228, 197);
+}
+
+.bluish {
+    color: rgb(16, 74, 124);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.blueice {
+    color: rgb(79, 79, 231);
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}

@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(238, 193, 139);
+}
+
+h1 {
+    font-weight: 1000;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+ul {
+    font-weight: bold;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
